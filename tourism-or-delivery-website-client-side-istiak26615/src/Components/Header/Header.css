@@ -1,0 +1,43 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(22, 21, 21);
+    cursor: pointer;
+    padding-top: 15px;
+    text-decoration: none;
+  }
+  .menubar{
+      background-color: rgb(70, 211, 70);
+  }
+
+  .signup{
+    background-color: green;
+    border: 1px solid green;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px 20px;
+    color: black;
+  }
+
+  .logo-img{
+      padding-bottom: 10px;
+  }
+
+  .logo-img img{
+      border: 1px solid green;
+      border-radius: 50%;
+      height: 60px;
+      width: 60px;
+      margin-right: 10px;
+
+  }
+
+  .user-name{
+      color: black;
+      font-weight: 100;
+      padding: 10px;
+      margin-top:15px;
+      
+  }

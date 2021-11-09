@@ -1,0 +1,33 @@
+.login-bg{
+    background-image: url('https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTF8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80');
+    height: 500px;
+    width: 100%;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    padding:0;
+    
+}
+
+
+.login-button{
+    background-color: rgb(84, 206, 84);
+    border: rgb(22, 21, 21);
+    border-radius: 10px;
+    
+    color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    margin: 0;
+   
+    padding: 10px;
+    position: absolute;
+    padding-right: 105px;
+    padding-left: 105px;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}

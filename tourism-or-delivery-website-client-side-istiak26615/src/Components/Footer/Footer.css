@@ -1,0 +1,11 @@
+.footer{
+    color: black;
+    background-color: rgb(70, 211, 70);
+}
+
+.footer-img img{
+    border:1px solid green;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}

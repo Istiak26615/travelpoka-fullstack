@@ -1,0 +1,27 @@
+[{"id":"service1","name":"Bichanakandi and ratargul",
+    "description":"বিছানাকান্দি এবং রাতারগুলে দ্যা ট্রাভেলপোকা। ৩১অক্টোবর রাতে রওনা হবো ২নভেম্বর সকাল ৭টার মধ্যে ঢাকা থাকবো ইন শাহ আল্লাহ।আসন সংখ্যা প্রাথমিক ভাবে ২৪ জন যারা আগে বুকিং করবেন তাদের আসন ই কেবল কনফার্ম হবে",
+    "image":"https://media-cdn.tripadvisor.com/media/photo-s/10/fd/37/e9/bisnakandi.jpg",
+"price":2000},
+{"id":"service2","name":"Debotakhum",
+    "description":"খুমের রাজ্য অভিযানে ৬ ফেব্রুয়ারী রাতে যাচ্ছি ১দিনের জন্য ইন শাহ আল্লাহ। সময় খুবই অল্প তাই এই এডভেঞ্চার মিস না করতে চাইলে দ্রুত কনফার্ম করুন।",
+    "image":"http://durbeentravel.com/storage/image/post/100000036/qieagLFrT4MrVxSo.jpg",
+    "price":2600},
+{"id":"service3","name":"Saint Martin",
+    "description":"সেন্ট-মার্টিন সবার কাছে সবচেয়ে প্রিয় স্থান। দম্পতি, পরিবার এবং কর্পোরেটের জন্য আমাদের সম্পূর্ণ সেন্ট-মার্টিন ট্যুর প্যাকেজ রয়েছে।বিশ্রাম এবং ব্যক্তিগত সময় কাটানোর জন্য হানিমুন দম্পতির জন্য সেন্ট-মার্টিন হল নিখুঁত গন্তব্য।",
+    "image":"https://avijatrik.org/wp-content/uploads/2019/06/cover-3-870x555.jpg",
+    "price":5900},
+{"id":"service4","name":"Tanguar Haor",
+    "description":"যে বা যারা,ভরা পুর্নিমায় টাংগুয়ার হাওড়ে যেতে চেয়েছিলেন তাদের জন্য খুব শীঘ্রই আমাদের ইভেন্ট আসছে।",
+    "image":"https://ttg.com.bd/uploads/tours/hotels/310_h01jpg.jpg",
+    "price":4000},
+{"id":"service5","name":"Nafakhum Amiakhum",
+    "description":"আমিয়াখুম ও নাফাখুম বাংলাদেশের অন্যতম সুন্দর জায়গা। যেখানে গেলে আপনার মন ভরবেই। খুমের রাজ্যে বাংলাদেশের সেরা এই দুটি খুমকে নৈসর্গিক সৌন্দর্য্যের মুকুট দান করেছেন প্রকৃতি।",
+    "image":"https://assets.roar.media/assets/Q8pQKGkeEc64V0lR_Amiakum-Waterfall-Bandarban-770x420.jpg",
+    "price":2000},
+{"id":"service6","name":"Ranagmati",
+    "description":"রাঙ্গামাটি জেলার জনপ্রিয় ভ্রমণ স্থান গুলোর মধ্যে উল্লেখযোগ হলো: কাপ্তাই হ্রদ, ঝুলন্ত সেতু, রাজবন বিহার, শুভলং ঝর্ণা, সাজেক ভ্যালী, নৌ বাহিনীর পিকনিক স্পট, কাপ্তাই বাঁধ ও কর্ণফুলি পানিবিদ্যুৎ কেন্দ্র",
+    "image":"https://media-cdn.tripadvisor.com/media/photo-c/2560x500/0e/16/5e/59/rangamati-hanging-bridge.jpg",
+    "price":2500}
+]
+
+
